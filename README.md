@@ -1,3 +1,3 @@
 # gittest
 
-test omg
+conflict OK
